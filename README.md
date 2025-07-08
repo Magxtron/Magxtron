@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=magxtron&label=Profile%20views&color=0e75b6&style=flat" alt="magxtron" /> </p>
 
-- 🌱 I’m currently learning **Java,Devops**
+- 🌱  **Backend Devloper**
 
 - 📫 How to reach me **manthangujar00@gmail.com**
 
